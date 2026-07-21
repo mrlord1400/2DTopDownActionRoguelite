@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 8d37f953571256b409fab8db5e43bf14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2436540846694078523
+    second: dungeon0014_0
+  - first:
+      213: 3134998513379189459
+    second: dungeon0014_1
+  - first:
+      213: -492487365269116115
+    second: dungeon0014_2
+  - first:
+      213: 7381266749970518019
+    second: dungeon0014_3
+  - first:
+      213: 4949827678123178473
+    second: dungeon0014_4
+  - first:
+      213: -3549123456976753974
+    second: dungeon0014_5
+  - first:
+      213: -3289018742137839992
+    second: dungeon0014_6
+  - first:
+      213: -289733823961979249
+    second: dungeon0014_7
+  - first:
+      213: -1405480738619658340
+    second: dungeon0014_8
+  - first:
+      213: 7099698400160660152
+    second: dungeon0014_9
+  - first:
+      213: -2731822009755064172
+    second: dungeon0014_10
+  - first:
+      213: -3816061671194446950
+    second: dungeon0014_11
+  - first:
+      213: 9069528625880662420
+    second: dungeon0014_12
+  - first:
+      213: -5709306992476068259
+    second: dungeon0014_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungeon0014_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1720
+        width: 90
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7e110620baf2ed0800000000000000
+      internalID: -2436540846694078523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1728
+        width: 223
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d22859b980c18b20800000000000000
+      internalID: 3134998513379189459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_2
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1616
+        width: 308
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b24c0c9555a29f0800000000000000
+      internalID: -492487365269116115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_3
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1623
+        width: 310
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300156060078f6660800000000000000
+      internalID: 7381266749970518019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1407
+        width: 180
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9bde54c0251b440800000000000000
+      internalID: 4949827678123178473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_5
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1147
+        width: 308
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acae4ea150bfebec0800000000000000
+      internalID: -3549123456976753974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_6
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1137
+        width: 308
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e954741ee0b52d0800000000000000
+      internalID: -3289018742137839992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 878
+        width: 583
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86a4574f98aafbf0800000000000000
+      internalID: -289733823961979249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_8
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 634
+        width: 309
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9febebf6babe7ce0800000000000000
+      internalID: -1405480738619658340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_9
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 623
+        width: 309
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba3cf14412378260800000000000000
+      internalID: 7099698400160660152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 457
+        width: 583
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498a4fe1b5e961ad0800000000000000
+      internalID: -2731822009755064172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_11
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 142
+        width: 310
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93b87fd020aa0bc0800000000000000
+      internalID: -3816061671194446950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 50
+        width: 583
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4918ad99b307ddd70800000000000000
+      internalID: 9069528625880662420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon0014_13
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 66
+        width: 583
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d566fcf1a8774c0b0800000000000000
+      internalID: -5709306992476068259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dungeon0014_0: -2436540846694078523
+      dungeon0014_1: 3134998513379189459
+      dungeon0014_10: -2731822009755064172
+      dungeon0014_11: -3816061671194446950
+      dungeon0014_12: 9069528625880662420
+      dungeon0014_13: -5709306992476068259
+      dungeon0014_2: -492487365269116115
+      dungeon0014_3: 7381266749970518019
+      dungeon0014_4: 4949827678123178473
+      dungeon0014_5: -3549123456976753974
+      dungeon0014_6: -3289018742137839992
+      dungeon0014_7: -289733823961979249
+      dungeon0014_8: -1405480738619658340
+      dungeon0014_9: 7099698400160660152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

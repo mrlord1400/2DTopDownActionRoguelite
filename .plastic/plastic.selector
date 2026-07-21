@@ -1,0 +1,3 @@
+repository "FGU_GameProject/FGU_GameProject@18967085644935@cloud"
+  path "/"
+    smartbranch "/main"
